@@ -1,0 +1,639 @@
+Processing Record: of Set 1 | butaritari
+No latitude data for: louisbourg--Skipped!
+Processing Record: of Set 1 | ushuaia
+No latitude data for: da nang--Skipped!
+Processing Record: of Set 1 | hamilton
+Processing Record: of Set 1 | fortuna
+Processing Record: of Set 1 | saltillo
+Processing Record: of Set 1 | saskylakh
+Processing Record: of Set 1 | kavaratti
+Processing Record: of Set 1 | lasa
+No latitude data for: marcona--Skipped!
+Processing Record: of Set 1 | ojinaga
+Processing Record: of Set 1 | rikitea
+Processing Record: of Set 1 | cabras
+Processing Record: of Set 1 | san policarpo
+Processing Record: of Set 1 | port alfred
+Processing Record: of Set 1 | provideniya
+Processing Record: of Set 1 | port elizabeth
+Processing Record: of Set 1 | castro
+Processing Record: of Set 1 | pisco
+Processing Record: of Set 1 | punta arenas
+Processing Record: of Set 1 | ntungamo
+Processing Record: of Set 1 | vaini
+Processing Record: of Set 1 | torbay
+Processing Record: of Set 1 | busselton
+Processing Record: of Set 1 | margate
+Processing Record: of Set 1 | vikulovo
+Processing Record: of Set 1 | faanui
+No latitude data for: illoqqortoormiut--Skipped!
+Processing Record: of Set 1 | adrar
+Processing Record: of Set 1 | hobart
+Processing Record: of Set 1 | hilo
+Processing Record: of Set 1 | shaunavon
+Processing Record: of Set 1 | quelimane
+Processing Record: of Set 1 | puerto ayora
+Processing Record: of Set 1 | thompson
+Processing Record: of Set 1 | qaanaaq
+Processing Record: of Set 1 | albany
+Processing Record: of Set 1 | ancud
+Processing Record: of Set 1 | mataura
+Processing Record: of Set 1 | cherskiy
+Processing Record: of Set 1 | barra do garcas
+Processing Record: of Set 1 | kaitangata
+Processing Record: of Set 1 | sioux lookout
+Processing Record: of Set 1 | zeya
+Processing Record: of Set 1 | peru
+No latitude data for: umm ruwabah--Skipped!
+Processing Record: of Set 1 | namatanai
+Processing Record: of Set 1 | khatanga
+Processing Record: of Set 1 | kamenka
+Processing Record: of Set 1 | ngunguru
+Processing Record: of Set 1 | sao bras de alportel
+Processing Record: of Set 1 | kushima
+No latitude data for: macaboboni--Skipped!
+No latitude data for: tsihombe--Skipped!
+Processing Record: of Set 1 | grindavik
+Processing Record: of Set 1 | bonthe
+Processing Record: of Set 1 | lorengau
+Processing Record: of Set 1 | georgetown
+Processing Record: of Set 1 | pouembout
+Processing Record: of Set 1 | koumac
+No latitude data for: ruatoria--Skipped!
+Processing Record: of Set 1 | bethel
+Processing Record: of Set 1 | sibolga
+No latitude data for: bengkulu--Skipped!
+No latitude data for: galgani--Skipped!
+No latitude data for: taolanaro--Skipped!
+Processing Record: of Set 1 | lhokseumawe
+Processing Record: of Set 1 | bambous virieux
+Processing Record: of Set 1 | bonavista
+Processing Record: of Set 1 | namtsy
+Processing Record: of Set 1 | namibe
+Processing Record: of Set 1 | nantucket
+No latitude data for: dibaya--Skipped!
+Processing Record: of Set 1 | baykit
+Processing Record: of Set 1 | bluff
+Processing Record: of Set 1 | dikson
+Processing Record: of Set 1 | pevek
+Processing Record: of Set 1 | vila franca do campo
+Processing Record: of Set 1 | aksu
+No latitude data for: samusu--Skipped!
+Processing Record: of Set 1 | jamestown
+Processing Record: of Set 1 | bredasdorp
+Processing Record: of Set 1 | cape town
+Processing Record: of Set 1 | san patricio
+Processing Record: of Set 1 | porto novo
+Processing Record: of Set 1 | kodiak
+Processing Record: of Set 1 | ivangorod
+Processing Record: of Set 1 | cayenne
+Processing Record: of Set 1 | sur
+Processing Record: of Set 1 | mount pleasant
+Processing Record: of Set 1 | katsuura
+Processing Record: of Set 1 | coyoles central
+Processing Record: of Set 1 | codrington
+No latitude data for: mys shmidta--Skipped!
+Processing Record: of Set 1 | sungaipenuh
+No latitude data for: barentsburg--Skipped!
+Processing Record: of Set 1 | new deer
+Processing Record: of Set 1 | kapaa
+Processing Record: of Set 1 | ponta do sol
+Processing Record: of Set 1 | arraial do cabo
+Processing Record: of Set 1 | pangnirtung
+Processing Record: of Set 1 | heinola
+Processing Record: of Set 1 | gat
+Processing Record: of Set 1 | batagay
+Processing Record: of Set 1 | puerto escondido
+Processing Record: of Set 1 | gornopravdinsk
+Processing Record: of Set 1 | saint-georges
+Processing Record: of Set 1 | port hardy
+Processing Record: of Set 1 | polunochnoye
+Processing Record: of Set 1 | groa
+Processing Record: of Set 1 | tasiilaq
+Processing Record: of Set 1 | hasaki
+No latitude data for: amderma--Skipped!
+Processing Record: of Set 1 | tuktoyaktuk
+Processing Record: of Set 1 | horadiz
+Processing Record: of Set 1 | mar del plata
+Processing Record: of Set 1 | iqaluit
+Processing Record: of Set 1 | noumea
+Processing Record: of Set 1 | buala
+Processing Record: of Set 1 | cabo san lucas
+Processing Record: of Set 1 | oparino
+No latitude data for: hendijan--Skipped!
+Processing Record: of Set 1 | sturgeon bay
+Processing Record: of Set 1 | pacific grove
+Processing Record: of Set 1 | mahebourg
+Processing Record: of Set 1 | matagami
+Processing Record: of Set 1 | hermanus
+Processing Record: of Set 1 | tura
+Processing Record: of Set 1 | keffi
+No latitude data for: rustam--Skipped!
+Processing Record: of Set 1 | nanortalik
+Processing Record: of Set 1 | muchkapskiy
+No latitude data for: nizhneyansk--Skipped!
+Processing Record: of Set 1 | vila velha
+Processing Record: of Set 1 | mbandaka
+Processing Record: of Set 1 | hachinohe
+Processing Record: of Set 1 | baculin
+Processing Record: of Set 1 | ust-kuyga
+Processing Record: of Set 1 | flin flon
+Processing Record: of Set 1 | yellowknife
+No latitude data for: attawapiskat--Skipped!
+Processing Record: of Set 1 | mayumba
+No latitude data for: grand river south east--Skipped!
+Processing Record: of Set 1 | akureyri
+Processing Record: of Set 1 | lebu
+Processing Record: of Set 1 | palmer
+Processing Record: of Set 1 | ribeira grande
+Processing Record: of Set 1 | uray
+Processing Record: of Set 1 | ca mau
+Processing Record: of Set 1 | chicama
+Processing Record: of Set 1 | lekoni
+Processing Record: of Set 1 | east london
+Processing Record: of Set 1 | severo-kurilsk
+No latitude data for: shchelyayur--Skipped!
+Processing Record: of Set 1 | capitan bado
+Processing Record: of Set 1 | quatre cocos
+No latitude data for: sakakah--Skipped!
+Processing Record: of Set 1 | mount isa
+Processing Record: of Set 1 | kasongo-lunda
+Processing Record: of Set 1 | poyarkovo
+Processing Record: of Set 1 | florianopolis
+Processing Record: of Set 1 | cidreira
+Processing Record: of Set 1 | ormara
+Processing Record: of Set 1 | mutoko
+Processing Record: of Set 1 | saint-philippe
+No latitude data for: belushya guba--Skipped!
+Processing Record: of Set 1 | andros town
+Processing Record: of Set 1 | along
+Processing Record: of Set 1 | saint george
+No latitude data for: burica--Skipped!
+Processing Record: of Set 1 | cedar mill
+Processing Record: of Set 1 | poum
+Processing Record: of Set 1 | carballo
+Processing Record: of Set 1 | foso
+Processing Record: of Set 1 | khasan
+Processing Record: of Set 1 | malanje
+Processing Record: of Set 1 | beringovskiy
+Processing Record: of Set 1 | picos
+Processing Record: of Set 1 | tiksi
+Processing Record: of Set 1 | belaya gora
+Processing Record: of Set 1 | upernavik
+Processing Record: of Set 1 | yerbogachen
+Processing Record: of Set 1 | saint-pierre
+Processing Record: of Set 1 | isla vista
+Processing Record: of Set 1 | qaqortoq
+Processing Record: of Set 1 | sobolevo
+No latitude data for: khonuu--Skipped!
+Processing Record: of Set 1 | tutoia
+Processing Record: of Set 1 | craig
+Processing Record: of Set 1 | conceicao do araguaia
+Processing Record: of Set 1 | atuona
+Processing Record: of Set 1 | yenagoa
+Processing Record: of Set 1 | erdenet
+Processing Record: of Set 1 | chokurdakh
+Processing Record: of Set 1 | houston
+Processing Record: of Set 1 | novikovo
+Processing Record: of Set 1 | saint-leu
+Processing Record: of Set 1 | wuwei
+Processing Record: of Set 1 | puerto madero
+Processing Record: of Set 1 | tuatapere
+Processing Record: of Set 1 | izhma
+Processing Record: of Set 1 | muros
+Processing Record: of Set 1 | panukulan
+Processing Record: of Set 1 | orillia
+Processing Record: of Set 1 | caledonia
+Processing Record: of Set 1 | talnakh
+Processing Record: of Set 1 | finschhafen
+Processing Record: of Set 1 | hithadhoo
+Processing Record: of Set 1 | ketchikan
+Processing Record: of Set 1 | mehamn
+Processing Record: of Set 1 | constitucion
+Processing Record: of Set 1 | rawson
+Processing Record: of Set 1 | shimoda
+Processing Record: of Set 1 | ramanuj ganj
+Processing Record: of Set 1 | geraldton
+No latitude data for: porto santo--Skipped!
+Processing Record: of Set 1 | norman wells
+Processing Record: of Set 1 | sorong
+No latitude data for: karaul--Skipped!
+Processing Record: of Set 1 | saint-ambroise
+Processing Record: of Set 1 | vanimo
+Processing Record: of Set 1 | varhaug
+Processing Record: of Set 1 | sakmara
+Processing Record: of Set 1 | les cayes
+Processing Record: of Set 1 | trelew
+Processing Record: of Set 1 | gizo
+Processing Record: of Set 1 | cap malheureux
+No latitude data for: kamenskoye--Skipped!
+Processing Record: of Set 1 | gondar
+Processing Record: of Set 1 | lavrentiya
+Processing Record: of Set 1 | makakilo city
+Processing Record: of Set 1 | robertsport
+Processing Record: of Set 1 | hobyo
+Processing Record: of Set 1 | gorontalo
+Processing Record: of Set 1 | shenzhen
+Processing Record: of Set 1 | opunake
+Processing Record: of Set 1 | santa isabel
+Processing Record: of Set 1 | verkhnevilyuysk
+Processing Record: of Set 1 | hofn
+Processing Record: of Set 1 | darhan
+No latitude data for: boljarovo--Skipped!
+Processing Record: of Set 1 | avarua
+Processing Record: of Set 1 | nakuru
+Processing Record: of Set 1 | jiangyou
+Processing Record: of Set 1 | saint-michel-des-saints
+No latitude data for: fort saint john--Skipped!
+Processing Record: of Set 1 | krivosheino
+Processing Record: of Set 1 | mersing
+Processing Record: of Set 1 | wellington
+Processing Record: of Set 1 | lompoc
+Processing Record: of Set 1 | carnarvon
+Processing Record: of Set 1 | khash
+No latitude data for: umzimvubu--Skipped!
+Processing Record: of Set 1 | mahibadhoo
+Processing Record: of Set 1 | saint-francois
+Processing Record: of Set 1 | nadym
+Processing Record: of Set 1 | karpogory
+Processing Record: of Set 1 | burgeo
+No latitude data for: lolua--Skipped!
+Processing Record: of Set 1 | nikolskoye
+Processing Record: of Set 1 | boa vista
+Processing Record: of Set 1 | manuk mangkaw
+Processing Record: of Set 1 | fairbanks
+Processing Record: of Set 1 | nuuk
+Processing Record: of Set 1 | botwood
+Processing Record: of Set 1 | ladario
+Processing Record: of Set 1 | iralaya
+Processing Record: of Set 1 | bucak
+Processing Record: of Set 1 | villarrica
+Processing Record: of Set 1 | touros
+Processing Record: of Set 1 | herat
+Processing Record: of Set 1 | marathon
+Processing Record: of Set 1 | zhezkazgan
+Processing Record: of Set 1 | saint anthony
+Processing Record: of Set 1 | molepolole
+Processing Record: of Set 1 | qena
+Processing Record: of Set 1 | zheleznogorsk
+Processing Record: of Set 1 | cavalcante
+No latitude data for: mocambique--Skipped!
+Processing Record: of Set 1 | borogontsy
+Processing Record: of Set 1 | dunedin
+Processing Record: of Set 1 | tazovskiy
+Processing Record: of Set 1 | naryan-mar
+Processing Record: of Set 1 | mae ramat
+Processing Record: of Set 1 | port macquarie
+Processing Record: of Set 1 | mikhaylovka
+Processing Record: of Set 1 | kutum
+Processing Record: of Set 1 | esperance
+Processing Record: of Set 1 | scottsbluff
+No latitude data for: toliary--Skipped!
+Processing Record: of Set 1 | sabya
+Processing Record: of Set 1 | barrow
+Processing Record: of Set 1 | arcata
+No latitude data for: catamarca--Skipped!
+No latitude data for: artyk--Skipped!
+Processing Record: of Set 1 | zelenets
+Processing Record: of Set 1 | mecca
+No latitude data for: fevralsk--Skipped!
+Processing Record: of Set 1 | westport
+No latitude data for: jaque--Skipped!
+Processing Record: of Set 1 | victoria
+Processing Record: of Set 1 | kerrville
+No latitude data for: chokwe--Skipped!
+Processing Record: of Set 1 | qasigiannguit
+No latitude data for: bolshiye uki--Skipped!
+Processing Record: of Set 1 | barcelos
+Processing Record: of Set 1 | zhanakorgan
+No latitude data for: tidore--Skipped!
+Processing Record: of Set 1 | sitka
+Processing Record: of Set 1 | murray bridge
+Processing Record: of Set 1 | coffs harbour
+Processing Record: of Set 1 | tongren
+Processing Record: of Set 1 | mao
+No latitude data for: asau--Skipped!
+Processing Record: of Set 1 | talcahuano
+Processing Record: of Set 1 | chuy
+Processing Record: of Set 1 | bristol
+Processing Record: of Set 1 | khor
+Processing Record: of Set 1 | zyryanka
+Processing Record: of Set 1 | valparaiso
+Processing Record: of Set 1 | svetlogorsk
+Processing Record: of Set 1 | altay
+No latitude data for: asfi--Skipped!
+No latitude data for: maloshuyka--Skipped!
+Processing Record: of Set 1 | marawi
+Processing Record: of Set 1 | vao
+Processing Record: of Set 1 | thinadhoo
+No latitude data for: ijaki--Skipped!
+Processing Record: of Set 1 | ipixuna
+Processing Record: of Set 1 | eastbourne
+Processing Record: of Set 1 | bathsheba
+Processing Record: of Set 1 | progreso
+Processing Record: of Set 1 | charlottetown
+Processing Record: of Set 1 | college
+Processing Record: of Set 1 | new norfolk
+Processing Record: of Set 1 | yelatma
+Processing Record: of Set 1 | guerrero negro
+Processing Record: of Set 1 | omsukchan
+Processing Record: of Set 1 | half moon bay
+Processing Record: of Set 1 | ballina
+Processing Record: of Set 1 | srednekolymsk
+Processing Record: of Set 1 | arman
+Processing Record: of Set 1 | northam
+Processing Record: of Set 1 | ukiah
+Processing Record: of Set 1 | luderitz
+Processing Record: of Set 1 | bosaso
+Processing Record: of Set 1 | katangli
+Processing Record: of Set 1 | los llanos de aridane
+Processing Record: of Set 1 | lebedinyy
+Processing Record: of Set 1 | berlevag
+Processing Record: of Set 1 | veraval
+Processing Record: of Set 1 | san fernando
+Processing Record: of Set 1 | waipawa
+Processing Record: of Set 1 | lufkin
+Processing Record: of Set 1 | bowen
+Processing Record: of Set 1 | buzmeyin
+Processing Record: of Set 1 | pemberton
+No latitude data for: viligili--Skipped!
+Processing Record: of Set 1 | aquiraz
+Processing Record: of Set 1 | glendive
+Processing Record: of Set 1 | kavieng
+Processing Record: of Set 1 | wajir
+Processing Record: of Set 1 | kununurra
+Processing Record: of Set 1 | zaysan
+Processing Record: of Set 1 | lulea
+Processing Record: of Set 1 | rochegda
+Processing Record: of Set 1 | prescott
+Processing Record: of Set 1 | karimnagar
+Processing Record: of Set 1 | tottori
+Processing Record: of Set 1 | djambala
+Processing Record: of Set 1 | leh
+Processing Record: of Set 1 | mackay
+Processing Record: of Set 1 | kokomo
+Processing Record: of Set 1 | novokuznetsk
+Processing Record: of Set 1 | hays
+Processing Record: of Set 1 | sainte-anne-des-monts
+Processing Record: of Set 1 | manokwari
+Processing Record: of Set 1 | jau
+No latitude data for: vaitupu--Skipped!
+Processing Record: of Set 1 | kisangani
+Processing Record: of Set 1 | caravelas
+Processing Record: of Set 1 | ardakan
+Processing Record: of Set 1 | tanout
+Processing Record: of Set 1 | yar-sale
+Processing Record: of Set 1 | airai
+Processing Record: of Set 1 | dargaville
+Processing Record: of Set 1 | kahului
+Processing Record: of Set 1 | waingapu
+Processing Record: of Set 1 | alofi
+Processing Record: of Set 1 | homer
+No latitude data for: sorvag--Skipped!
+Processing Record: of Set 1 | obo
+Processing Record: of Set 1 | lata
+Processing Record: of Set 1 | clyde river
+Processing Record: of Set 1 | urengoy
+Processing Record: of Set 1 | ust-maya
+Processing Record: of Set 1 | vardo
+Processing Record: of Set 1 | leningradskiy
+Processing Record: of Set 1 | kupang
+Processing Record: of Set 1 | raudeberg
+Processing Record: of Set 1 | ambovombe
+Processing Record: of Set 1 | abu samrah
+Processing Record: of Set 1 | phek
+Processing Record: of Set 1 | broome
+Processing Record: of Set 1 | sulangan
+Processing Record: of Set 1 | oranjemund
+Processing Record: of Set 1 | bundu
+Processing Record: of Set 1 | hirara
+Processing Record: of Set 1 | mingyue
+Processing Record: of Set 1 | henties bay
+Processing Record: of Set 1 | souillac
+Processing Record: of Set 1 | lihula
+No latitude data for: juifang--Skipped!
+Processing Record: of Set 1 | bintulu
+Processing Record: of Set 1 | northallerton
+Processing Record: of Set 1 | pemba
+Processing Record: of Set 1 | diego de almagro
+Processing Record: of Set 1 | solnechnyy
+Processing Record: of Set 1 | roald
+Processing Record: of Set 1 | biak
+Processing Record: of Set 1 | apac
+Processing Record: of Set 1 | elizabeth city
+Processing Record: of Set 1 | ikalamavony
+Processing Record: of Set 1 | hami
+Processing Record: of Set 1 | ereymentau
+No latitude data for: tabiauea--Skipped!
+Processing Record: of Set 1 | las lomas
+Processing Record: of Set 1 | avera
+Processing Record: of Set 1 | atar
+Processing Record: of Set 1 | narsaq
+Processing Record: of Set 1 | leshukonskoye
+Processing Record: of Set 1 | sao filipe
+Processing Record: of Set 1 | hohhot
+Processing Record: of Set 1 | cristalina
+Processing Record: of Set 1 | la ronge
+Processing Record: of Set 1 | yuanping
+Processing Record: of Set 1 | port hedland
+Processing Record: of Set 1 | sokoni
+Processing Record: of Set 1 | belen
+Processing Record: of Set 1 | miramar
+Processing Record: of Set 1 | pierre
+Processing Record: of Set 1 | cuamba
+Processing Record: of Set 1 | ocho rios
+Processing Record: of Set 1 | zhigansk
+Processing Record: of Set 1 | luan
+Processing Record: of Set 1 | shanting
+Processing Record: of Set 1 | joshimath
+Processing Record: of Set 1 | mayo
+Processing Record: of Set 1 | plettenberg bay
+Processing Record: of Set 1 | natal
+Processing Record: of Set 1 | wahiawa
+Processing Record: of Set 1 | yaan
+Processing Record: of Set 1 | figeac
+No latitude data for: skagastrond--Skipped!
+Processing Record: of Set 1 | xingyi
+Processing Record: of Set 1 | san jeronimo
+Processing Record: of Set 1 | digha
+Processing Record: of Set 1 | campbell river
+Processing Record: of Set 1 | salinopolis
+No latitude data for: pavda--Skipped!
+Processing Record: of Set 1 | tigre
+Processing Record: of Set 1 | halifax
+Processing Record: of Set 1 | punta cardon
+Processing Record: of Set 1 | povenets
+Processing Record: of Set 1 | grand gaube
+Processing Record: of Set 1 | chitral
+Processing Record: of Set 1 | chumikan
+Processing Record: of Set 1 | palu
+Processing Record: of Set 1 | deputatskiy
+Processing Record: of Set 1 | ponta delgada
+Processing Record: of Set 1 | leirvik
+Processing Record: of Set 1 | santa cruz cabralia
+No latitude data for: saleaula--Skipped!
+Processing Record: of Set 1 | lazurne
+Processing Record: of Set 1 | consolacion del sur
+Processing Record: of Set 1 | nampula
+Processing Record: of Set 1 | riyadh
+Processing Record: of Set 1 | point pedro
+Processing Record: of Set 1 | kandrian
+Processing Record: of Set 1 | monrovia
+Processing Record: of Set 1 | ostrovnoy
+Processing Record: of Set 1 | penarroya-pueblonuevo
+Processing Record: of Set 1 | tome
+Processing Record: of Set 1 | oktyabrskoye
+Processing Record: of Set 1 | akdepe
+Processing Record: of Set 1 | fare
+Processing Record: of Set 1 | santa maria
+Processing Record: of Set 1 | san rafael del sur
+Processing Record: of Set 1 | marzuq
+Processing Record: of Set 1 | taunggyi
+Processing Record: of Set 1 | matadi
+Processing Record: of Set 1 | port hawkesbury
+Processing Record: of Set 1 | bilibino
+Processing Record: of Set 1 | energetik
+Processing Record: of Set 1 | salalah
+Processing Record: of Set 1 | ahipara
+Processing Record: of Set 1 | vostok
+Processing Record: of Set 1 | juneau
+Processing Record: of Set 1 | kudahuvadhoo
+No latitude data for: urfa--Skipped!
+Processing Record: of Set 1 | baoning
+Processing Record: of Set 1 | parabel
+Processing Record: of Set 1 | nedjo
+Processing Record: of Set 1 | paita
+Processing Record: of Set 1 | barillas
+Processing Record: of Set 1 | abha
+Processing Record: of Set 1 | gravdal
+Processing Record: of Set 1 | port lincoln
+Processing Record: of Set 1 | wanning
+Processing Record: of Set 1 | lagoa
+Processing Record: of Set 1 | isangel
+Processing Record: of Set 1 | saldanha
+Processing Record: of Set 1 | zwedru
+Processing Record: of Set 1 | ayagoz
+Processing Record: of Set 1 | luang prabang
+Processing Record: of Set 1 | farafangana
+Processing Record: of Set 1 | kutulik
+Processing Record: of Set 1 | thibodaux
+Processing Record: of Set 1 | kouango
+Processing Record: of Set 1 | inhambane
+Processing Record: of Set 1 | taoudenni
+Processing Record: of Set 1 | port shepstone
+Processing Record: of Set 1 | aksarka
+Processing Record: of Set 1 | kalevala
+Processing Record: of Set 1 | antofagasta
+Processing Record: of Set 1 | bira
+Processing Record: of Set 1 | bandar-e lengeh
+Processing Record: of Set 1 | andira
+Processing Record: of Set 1 | khandbari
+Processing Record: of Set 1 | bayshore gardens
+Processing Record: of Set 1 | athabasca
+Processing Record: of Set 1 | surt
+Processing Record: of Set 1 | pitkyaranta
+Processing Record: of Set 1 | la cruz
+Processing Record: of Set 1 | yeppoon
+Processing Record: of Set 1 | saint-louis
+Processing Record: of Set 1 | anadyr
+Processing Record: of Set 1 | tromso
+Processing Record: of Set 1 | delijan
+Processing Record: of Set 1 | trairi
+Processing Record: of Set 1 | krasnoye
+Processing Record: of Set 1 | cabedelo
+Processing Record: of Set 1 | jacala
+Processing Record: of Set 1 | babu
+Processing Record: of Set 1 | manta
+No latitude data for: tatawin--Skipped!
+Processing Record: of Set 1 | kharp
+Processing Record: of Set 1 | sinnamary
+Processing Record: of Set 1 | bograd
+Processing Record: of Set 1 | saint-augustin
+Processing Record: of Set 1 | yulara
+Processing Record: of Set 1 | pinawa
+Processing Record: of Set 1 | luanda
+Processing Record: of Set 1 | omboue
+Processing Record: of Set 1 | tautira
+No latitude data for: tungkang--Skipped!
+No latitude data for: formoso do araguaia--Skipped!
+Processing Record: of Set 1 | lahat
+Processing Record: of Set 1 | brae
+Processing Record: of Set 1 | bandiagara
+No latitude data for: krems--Skipped!
+Processing Record: of Set 1 | floro
+Processing Record: of Set 1 | biltine
+Processing Record: of Set 1 | port-gentil
+Processing Record: of Set 1 | ilulissat
+Processing Record: of Set 1 | mitsamiouli
+Processing Record: of Set 1 | san cristobal
+Processing Record: of Set 1 | byron bay
+No latitude data for: yanchukan--Skipped!
+Processing Record: of Set 1 | viedma
+Processing Record: of Set 1 | bandar
+Processing Record: of Set 1 | zainsk
+Processing Record: of Set 1 | la rioja
+Processing Record: of Set 1 | gondanglegi
+Processing Record: of Set 1 | pulandian
+Processing Record: of Set 1 | kaspiysk
+Processing Record: of Set 1 | jumla
+Processing Record: of Set 1 | klaksvik
+No latitude data for: bairiki--Skipped!
+Processing Record: of Set 1 | shellbrook
+No latitude data for: pokrovsk-uralskiy--Skipped!
+Processing Record: of Set 1 | sorland
+Processing Record: of Set 1 | gambela
+Processing Record: of Set 1 | lingolsheim
+Processing Record: of Set 1 | corrente
+Processing Record: of Set 1 | mimongo
+Processing Record: of Set 1 | soyo
+Processing Record: of Set 1 | inta
+Processing Record: of Set 1 | coruripe
+Processing Record: of Set 1 | limbang
+Processing Record: of Set 1 | meulaboh
+Processing Record: of Set 1 | qianguo
+Processing Record: of Set 1 | belyy yar
+Processing Record: of Set 1 | sikeston
+Processing Record: of Set 1 | laizhou
+Processing Record: of Set 1 | gazli
+Processing Record: of Set 1 | pandan
+No latitude data for: dubenskiy--Skipped!
+No latitude data for: bargal--Skipped!
+Processing Record: of Set 1 | haines junction
+Processing Record: of Set 1 | show low
+Processing Record: of Set 1 | karatau
+Processing Record: of Set 1 | sept-iles
+Processing Record: of Set 1 | cururupu
+Processing Record: of Set 1 | sao miguel do araguaia
+Processing Record: of Set 1 | vestmanna
+Processing Record: of Set 1 | turukhansk
+Processing Record: of Set 1 | sisimiut
+Processing Record: of Set 1 | amapa
+Processing Record: of Set 1 | longyearbyen
+Processing Record: of Set 1 | nova olinda do norte
+Processing Record: of Set 1 | pontecorvo
+Processing Record: of Set 1 | tilichiki
+Processing Record: of Set 1 | palana
+Processing Record: of Set 1 | yatou
+Processing Record: of Set 1 | sao geraldo do araguaia
+Processing Record: of Set 1 | te anau
+Processing Record: of Set 1 | de-kastri
+No latitude data for: olafsvik--Skipped!
+Processing Record: of Set 1 | lai
+Processing Record: of Set 1 | sao joao da barra
+No latitude data for: aflu--Skipped!
+Processing Record: of Set 1 | slave lake
+Processing Record: of Set 1 | beloha
+Processing Record: of Set 1 | tigil
+Processing Record: of Set 1 | alice springs
+Processing Record: of Set 1 | canutama
+Processing Record: of Set 1 | iskateley
+Processing Record: of Set 1 | kozhevnikovo
+Processing Record: of Set 1 | alta floresta
+Processing Record: of Set 1 | shiyan
+Processing Record: of Set 1 | tommot
+Processing Record: of Set 1 | lukh
+Processing Record: of Set 1 | gongzhuling
+Processing Record: of Set 1 | moron
+Processing Record: of Set 1 | kaseda
+Processing Record: of Set 1 | gushikawa
+Processing Record: of Set 1 | ust-tsilma
