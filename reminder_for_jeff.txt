@@ -1,0 +1,5 @@
+To make this file work you need to bring in the api_keys.py file that has the api key.
+
+This file is located in Users/JTS/whats_the_weather.
+
+This notepad file is just a reminder so that if you have to run it over again, you know.
